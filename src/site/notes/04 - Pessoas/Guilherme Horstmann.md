@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/guilherme-horstmann/","tags":["person","profile","politicas-publicas","pesquisa","academia","educacao","seguranca"]}
+{"dg-publish":true,"permalink":"/04-pessoas/guilherme-horstmann/","tags":["person","profile","politicas-publicas","pesquisa","academia","educacao","seguranca"],"noteIcon":""}
 ---
 
 ## Guilherme Horstmann

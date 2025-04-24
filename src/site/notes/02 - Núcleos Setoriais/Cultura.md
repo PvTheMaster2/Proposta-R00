@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/cultura/","tags":["nucleus","cultura","arte","musica","moda","creative-industries","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/cultura/","tags":["nucleus","cultura","arte","musica","moda","creative-industries","ai-applications"],"noteIcon":""}
 ---
 
 

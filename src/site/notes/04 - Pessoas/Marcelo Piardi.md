@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/marcelo-piardi/","tags":["person","profile","direito"]}
+{"dg-publish":true,"permalink":"/04-pessoas/marcelo-piardi/","tags":["person","profile","direito"],"noteIcon":""}
 ---
 
 ## Marcelo Piardi

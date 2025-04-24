@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/lucas-brando/","tags":["person","profile","gastronomia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/lucas-brando/","tags":["person","profile","gastronomia"],"noteIcon":""}
 ---
 
 ## Lucas Brando

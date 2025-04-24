@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/eduardo-boff/","tags":["person","profile","vendas","automotivo","educacao","tecnologia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/eduardo-boff/","tags":["person","profile","vendas","automotivo","educacao","tecnologia"],"noteIcon":""}
 ---
 
  ## Eduardo Boff

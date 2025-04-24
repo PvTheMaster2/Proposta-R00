@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/lucas-storchi/","tags":["person","profile","industria","moda","gastronomia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/lucas-storchi/","tags":["person","profile","industria","moda","gastronomia"],"noteIcon":""}
 ---
 
 ## Lucas Storchi

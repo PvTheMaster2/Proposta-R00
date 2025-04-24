@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/esg/","tags":["nucleus","esg","sustentabilidade","social","governance","reporting","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/esg/","tags":["nucleus","esg","sustentabilidade","social","governance","reporting","ai-applications"],"noteIcon":""}
 ---
 
 

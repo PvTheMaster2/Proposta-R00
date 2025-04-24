@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/giordano-tieppo/","tags":["person","profile","engenharia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/giordano-tieppo/","tags":["person","profile","engenharia"],"noteIcon":""}
 ---
 
 ## Giordano Tieppo

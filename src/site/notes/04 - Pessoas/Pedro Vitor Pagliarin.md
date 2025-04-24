@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/pedro-vitor-pagliarin/","tags":["person","profile","engenharia","energia","hidrossanitario","empreendedor","lideranca","fundador"]}
+{"dg-publish":true,"permalink":"/04-pessoas/pedro-vitor-pagliarin/","tags":["person","profile","engenharia","energia","hidrossanitario","empreendedor","lideranca","fundador"],"noteIcon":""}
 ---
 
 

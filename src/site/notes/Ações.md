@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acoes/","tags":["legal","finance","corporate-structure","investment"]}
+{"dg-publish":true,"permalink":"/acoes/","tags":["legal","finance","corporate-structure","investment"],"noteIcon":""}
 ---
 
 

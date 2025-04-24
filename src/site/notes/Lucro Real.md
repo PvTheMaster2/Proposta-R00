@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lucro-real/","tags":["tax","legal","finance","brazil"]}
+{"dg-publish":true,"permalink":"/lucro-real/","tags":["tax","legal","finance","brazil"],"noteIcon":""}
 ---
 
 

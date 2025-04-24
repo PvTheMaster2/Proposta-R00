@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/arthur-brandalise/","tags":["person","profile","marketing","entrepreneur"]}
+{"dg-publish":true,"permalink":"/04-pessoas/arthur-brandalise/","tags":["person","profile","marketing","entrepreneur"],"noteIcon":""}
 ---
 
 ## Arthur Brandalise

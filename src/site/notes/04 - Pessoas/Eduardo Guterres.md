@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/eduardo-guterres/","tags":["person","profile","cultura","musica","educacao"]}
+{"dg-publish":true,"permalink":"/04-pessoas/eduardo-guterres/","tags":["person","profile","cultura","musica","educacao"],"noteIcon":""}
 ---
 
 ## Eduardo Gutterres

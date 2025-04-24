@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/vinicius-perini/","tags":["person","profile","tecnologia","ti","seguranca","redes"]}
+{"dg-publish":true,"permalink":"/04-pessoas/vinicius-perini/","tags":["person","profile","tecnologia","ti","seguranca","redes"],"noteIcon":""}
 ---
 
 ## Vinícius Lahm Perini

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/eduardo-telli/","tags":["person","profile","engenharia","pesquisa","academia","materiais","energia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/eduardo-telli/","tags":["person","profile","engenharia","pesquisa","academia","materiais","energia"],"noteIcon":""}
 ---
 
 ## Eduardo Dambros Telli

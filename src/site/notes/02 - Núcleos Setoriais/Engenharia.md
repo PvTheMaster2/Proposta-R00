@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/engenharia/","tags":["nucleus","engenharia","engineering","civil","electrical","mechanical","production","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/engenharia/","tags":["nucleus","engenharia","engineering","civil","electrical","mechanical","production","ai-applications"],"noteIcon":""}
 ---
 
 

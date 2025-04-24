@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/pedro-corso/","tags":["person","profile","agronomia","agronegocio","coworking"]}
+{"dg-publish":true,"permalink":"/04-pessoas/pedro-corso/","tags":["person","profile","agronomia","agronegocio","coworking"],"noteIcon":""}
 ---
 
 ## Pedro Henrique Corso

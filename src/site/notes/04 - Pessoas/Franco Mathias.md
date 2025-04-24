@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/franco-mathias/","tags":["person","profile","marketing","ecommerce","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/franco-mathias/","tags":["person","profile","marketing","ecommerce","empreendedor"],"noteIcon":""}
 ---
 
 ## Franco Estevan Matias

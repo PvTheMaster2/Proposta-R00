@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/vitor-reis-pirolli/","tags":["person","profile","saude","esporte","educacao-fisica","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/vitor-reis-pirolli/","tags":["person","profile","saude","esporte","educacao-fisica","empreendedor"],"noteIcon":""}
 ---
 
 ## Vitor Reis Pirolli

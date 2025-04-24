@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-outbox/juridico-exemplo-r00/"}
+{"dg-publish":true,"permalink":"/20-outbox/juridico-exemplo-r00/","noteIcon":""}
 ---
 
 

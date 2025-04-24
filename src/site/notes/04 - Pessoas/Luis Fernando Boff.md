@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/luis-fernando-boff/","tags":["person","profile","engenharia","energia","sustentabilidade","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/luis-fernando-boff/","tags":["person","profile","engenharia","energia","sustentabilidade","empreendedor"],"noteIcon":""}
 ---
 
 ## Luis Fernando Boff

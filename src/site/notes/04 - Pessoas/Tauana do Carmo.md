@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/tauana-do-carmo/","tags":["person","profile","direito","humanas","internacional","conflitos"]}
+{"dg-publish":true,"permalink":"/04-pessoas/tauana-do-carmo/","tags":["person","profile","direito","humanas","internacional","conflitos"],"noteIcon":""}
 ---
 
 ## Tauana Bortolotto do Carmo

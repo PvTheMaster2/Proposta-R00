@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/caio-collar/","tags":["person","profile","engenharia","consultoria","processos"]}
+{"dg-publish":true,"permalink":"/04-pessoas/caio-collar/","tags":["person","profile","engenharia","consultoria","processos"],"noteIcon":""}
 ---
 
  ## Caio Rocha Collar

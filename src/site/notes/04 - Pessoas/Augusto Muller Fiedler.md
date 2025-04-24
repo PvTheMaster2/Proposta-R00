@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/augusto-muller-fiedler/","tags":["person","profile","saude","medicina","neurociencia"]}
+{"dg-publish":true,"permalink":"/04-pessoas/augusto-muller-fiedler/","tags":["person","profile","saude","medicina","neurociencia"],"noteIcon":""}
 ---
 
 ## Dr. Augusto Müller Fiedler

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/gastronomia/","tags":["nucleus","gastronomia","foodtech","restaurants","culinary","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/gastronomia/","tags":["nucleus","gastronomia","foodtech","restaurants","culinary","ai-applications"],"noteIcon":""}
 ---
 
 

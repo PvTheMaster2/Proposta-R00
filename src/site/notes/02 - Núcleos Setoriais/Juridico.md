@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/juridico/","tags":["nucleus","juridico","direito","legaltech","law","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/juridico/","tags":["nucleus","juridico","direito","legaltech","law","ai-applications"],"noteIcon":""}
 ---
 
 

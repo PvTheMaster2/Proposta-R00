@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/e-commerce/","tags":["nucleus","ecommerce","digital-commerce","retailtech","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/e-commerce/","tags":["nucleus","ecommerce","digital-commerce","retailtech","ai-applications"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/kimberly-santini/","tags":["person","profile","cultura","moda","design","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/kimberly-santini/","tags":["person","profile","cultura","moda","design","empreendedor"],"noteIcon":""}
 ---
 
 ## Kimberly Santini

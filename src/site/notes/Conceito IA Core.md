@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conceito-ia-core/"}
+{"dg-publish":true,"permalink":"/conceito-ia-core/","noteIcon":""}
 ---
 
  O conceito de IA Core refere-se à integração centralizada de inteligência artificial em processos e sistemas,  visando otimizar operações, melhorar a tomada de decisões e criar valor através de insights avançados. 

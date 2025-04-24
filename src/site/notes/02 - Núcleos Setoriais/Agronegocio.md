@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/agronegocio/","tags":["nucleus","agronegocio","agriculture","agtech","ai-applications"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/agronegocio/","tags":["nucleus","agronegocio","agriculture","agtech","ai-applications"],"noteIcon":""}
 ---
 
 

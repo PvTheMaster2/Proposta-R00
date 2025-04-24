@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/lucas-debona/","tags":["person","profile","tecnologia","ti","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/lucas-debona/","tags":["person","profile","tecnologia","ti","empreendedor"],"noteIcon":""}
 ---
 
 ## Lucas Araújo Debona

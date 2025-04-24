@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/dudu-d-agostini/","tags":["person","profile","engenharia","consultoria","empreendedor"]}
+{"dg-publish":true,"permalink":"/04-pessoas/dudu-d-agostini/","tags":["person","profile","engenharia","consultoria","empreendedor"],"noteIcon":""}
 ---
 
  ## Luis Eduardo D'Agostini

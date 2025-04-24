@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-nucleos-setoriais/academia/","tags":["nucleus","academia","research","ai-applications","knowledge-management"]}
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/academia/","tags":["nucleus","academia","research","ai-applications","knowledge-management"],"noteIcon":""}
 ---
 
 

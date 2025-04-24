@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-pessoas/catarina-gaboardi/","tags":["person","profile","engenharia","sustentabilidade"]}
+{"dg-publish":true,"permalink":"/04-pessoas/catarina-gaboardi/","tags":["person","profile","engenharia","sustentabilidade"],"noteIcon":""}
 ---
 
 ## Catarina Gaboardi
