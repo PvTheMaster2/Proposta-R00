@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-tags:
-  - nucleus
-  - consultoria
-  - advisory
-  - process-optimization
-  - strategy
-  - ai-applications
-aliases:
-  - Núcleo Consultoria
-created: 2025-04-25T11:03
-updated: 2025-04-25T11:03
+{"dg-publish":true,"permalink":"/02-nucleos-setoriais/consultoria/","tags":["nucleus","consultoria","advisory","process-optimization","strategy","ai-applications"],"noteIcon":""}
 ---
+
 
 # 🧭 Núcleo Setorial: Consultoria
 

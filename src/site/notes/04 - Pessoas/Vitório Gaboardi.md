@@ -1,15 +1,7 @@
 ---
-dg-publish: true
-tags:
-  - person
-  - partner
-  - legal
-  - ecommerce
-aliases:
-  - Vitorio Gaboardi
-created: 2025-04-25T12:00
-updated: 2025-04-25T12:00
+{"dg-publish":true,"permalink":"/04-pessoas/vitorio-gaboardi/","tags":["person","partner","legal","ecommerce"],"noteIcon":""}
 ---
+
 
 # 👤 Vitório Gaboardi
 
