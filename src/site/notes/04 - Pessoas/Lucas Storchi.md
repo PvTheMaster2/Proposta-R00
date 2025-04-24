@@ -14,13 +14,13 @@ Lucas Storchi concluiu sua graduação em Gastronomia pela **Universidade de Cax
 
 ### 🏭 Atuação na Indústria de Aviamentos
 
-Atualmente, Lucas Storchi integra a equipe da **Rech Indústria de Botões e Componentes Ltda**, uma empresa especializada na fabricação de aviamentos metálicos para a indústria da moda, localizada em Caxias do Sul. Fundada em 2018, a Rech Botões é reconhecida por sua ampla diversidade de produtos e acessórios, como botões, rebites, placas de metal e etiquetas, sempre alinhados às tendências da moda atual.
+Atualmente, Lucas Storchi integra a equipe da **Metalurgica Pipe Variani**, uma empresa especializada na fabricação de aviamentos metálicos para a indústria da moda, localizada em Caxias do Sul. Fundada em 1986 a Pipe Variani é reconhecida por sua ampla diversidade de produtos e acessórios, como botões, rebites, placas de metal e etiquetas, sempre alinhados às tendências da moda atual.
 
 ---
 
 ### 🌐 Contato e Presença Online
 
-*   **Rech Botões e Componentes**: [www.rechbotoes.com.br](https://rechbotoes.com.br/)
+*    **Metalurgica Pipe Variani**: [https://www.pipevariani.com.br/quemsomos](https://www.pipevariani.com.br/quemsomos)
 
 ---
 
