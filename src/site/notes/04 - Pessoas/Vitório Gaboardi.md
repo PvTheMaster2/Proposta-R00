@@ -5,6 +5,9 @@
 
 # 👤 Vitório Gaboardi
 
+
+![Pasted image 20250424222334.png](/img/user/Pasted%20image%2020250424222334.png)
+
 Vitório Gaboardi é advogado, graduado em Direito pela UCS (Universidade de Caxias do Sul) em 2020. Atualmente, integra a equipe do escritório [PSP Advogados](https://pspadvogados.com/), trazendo sua experiência prática em direito empresarial para os núcleos [[02 - Núcleos Setoriais/Juridico\|Jurídico]] e [[02 - Núcleos Setoriais/E-commerce\|E-commerce]] da [[Home\|MultiSócios]].
 
 ## Como Vitório Agrega Valor à MultiSócios
