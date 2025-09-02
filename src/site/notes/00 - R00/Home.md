@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-r00/home/","pinned":true,"tags":["homepage","navigation","welcome","mission","vision","structure","MOC","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-r00/home/","pinned":true,"tags":["homepage","navigation","welcome","mission","vision","structure","MOC","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
